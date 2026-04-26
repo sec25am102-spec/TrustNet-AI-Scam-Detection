@@ -1,2 +1,11 @@
-# TrustNet-AI-Scam-Detection
-Real-Time Social Media Scam &amp; Phishing Detection System using AI
+# TrustNet AI
+Real-Time Social Media Scam & Phishing Detection System
+
+## Features
+- Detect phishing links
+- Detect scam messages
+- AI text classification
+- Simple API
+
+## Tech Stack
+Python, Flask, Machine Learning
